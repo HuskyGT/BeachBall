@@ -1,6 +1,7 @@
-﻿using ObjectVelocityTracker;
+using ObjectVelocityTracker;
 using UnityEngine;
 using System.Collections;
+using BeachBall;
 
 public class ResetTrigger : MonoBehaviour
 {
@@ -9,8 +10,7 @@ public class ResetTrigger : MonoBehaviour
 
         if (col.gameObject.GetComponent<VelocityTracker>() != null)
         {
-            print($"{gameObject.name} opened by {col.gameObject.name}");
-            GameObject BeachBall = GameObject.Find("Beach Ball");
+            GameObject BeachBall = BeachBallMain.BB;
             if (BeachBall != null)
             {
                 if (col.name == "LeftHandTriggerCollider")
@@ -24,7 +24,7 @@ public class ResetTrigger : MonoBehaviour
                 // GorillaTagger.Instance.StartVibration
                 BeachBall.GetComponent<Rigidbody>().velocity = Vector3.zero;
                 BeachBall.GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
-                BeachBall.transform.position = new Vector3(-68.5292f, 11.5086f, -84.2434f);
+                BeachBall.transform.position = new Vector3(-63.8182f, 11.9579f, -84.8337f);
             }
         }
     }
