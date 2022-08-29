@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4rZg6r9ywNgW6TKW/GIyHONc5mLYiOZOePIPf3Ew8UWpyk17h76ylidBcr+RrOaeIDwde3aBVMoB9Ju9sC7oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devel\\Downloads\\BeachBall-main\\src\\Jam Submission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
