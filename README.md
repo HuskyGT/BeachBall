@@ -12,6 +12,7 @@ This Mod Adds A Beach Ball In Gorilla Tag That You Can Smack Around Grab And Eve
 -Reset Button That Will Teleport The Ball Back To The Cabinet 
 
 # Discord
+Join my discord to report bugs or if you need any help
 https://discord.gg/kxrCaY7svt
 
 # Requirements
