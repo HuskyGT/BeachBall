@@ -3,8 +3,8 @@
 This Mod Adds A Beach Ball In Gorilla Tag That You Can Smack Around Grab And Even Comes With A Cabinet To Put In In
 # Controls
 
--Left Trigger While Near The Beach Ball To Grab It On Your Left Hand           
--Right Trigger While Near The Beach Ball To Grab It On Your Right Hand                   
+Left Trigger While Near The Beach Ball To Grab It On Your Left Hand           
+Right Trigger While Near The Beach Ball To Grab It On Your Right Hand                   
 
 # Features 
 -Beach Ball To Play With          
